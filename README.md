@@ -3,33 +3,23 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and solving complex problems. Here’s a little bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Current Project or Job]
-- 🌱 I’m currently learning [Technologies or Skills You're Learning]
-- 👯 I’m looking to collaborate on [Open Source Projects or Other Projects]
-- 🤔 I’m looking for help with [Areas Where You Need Help]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email Address]
+- 🔭 I’m currently working on inkoran.com
+- 🌱 I’m currently learning AI Development.
+- 👯 I’m looking to collaborate on Freelance Projects.
+- 🤔 I’m looking for help with Web/App Development
+- 📫 How to reach me: haseeb.aha786@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A Fun Fact About You]
+- ⚡ Fun fact: I run on caffeine and sheer determination!
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: [List of Languages You Use]
-- Frameworks: [List of Frameworks You Use]
-- Tools: [List of Tools You Use]
+- Programming Languages: JavaScript, TypeScript, Python, C++, PHP
+- Frameworks: React.js, Next.js, Node.js, Express.js, NestJS, Laravel
+- Tools: GitHub, Firebase, MySQL, PostgreSQL, MongoDB, Maxio, Auth0, Socket.io, ADB, Docker, Nginx, Stripe Integration.
 
 ## 📈 GitHub Stats
 ![Muhammad-Haseeb-Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb-Ali&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Twitter: [Your Twitter Profile](https://twitter.com/YourTwitterProfile)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🔗 Other Links
-- Personal Website: [Your Personal Website](https://www.yourpersonalwebsite.com)
-- Portfolio: [Your Portfolio](https://www.yourportfolio.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-haseeb-ali/)
 
 Thanks for visiting my profile! Have a great day! 😊
