@@ -3,12 +3,12 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and solving complex problems. Here’s a little bit about me:
 
 ## 🚀 About Me
-- 🔭 I’m currently working on inkoran.com
+- 🔭 I’m currently working on [Inkoran](https://inkoran.com/).
 - 🌱 I’m currently learning AI Development.
 - 👯 I’m looking to collaborate on Freelance Projects.
 - 🤔 I’m looking for help with - building an app that convinces my alarm clock that “snooze” means shut up forever and not just take a power nap.
-- 📫 How to reach me: haseeb.aha786@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: haseeb.aha786@gmail.com.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I run on caffeine and sheer determination!
 
 ## 🛠️ Technologies & Tools
